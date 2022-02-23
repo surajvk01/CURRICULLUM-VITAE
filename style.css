@@ -26,3 +26,8 @@ ul{
     margin: 20px;
 
 }
+
+.about{
+    display: flex;
+    justify-content: space-around;
+}
